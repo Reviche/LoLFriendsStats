@@ -5,12 +5,12 @@ function FriendStats({ gameName, tagLine }) {
     const [stats, setStats] = useState(null);
     const [error, setError] = useState(null);
 
-    const backendUrl = 'https://localhost:7074'; // Adjust the port if necessary
+    const backendUrl = 'https://localhost:7074';
 
     useEffect(() => {
         const fetchStats = async () => {
             try {
-                // Fetch summoner data by Riot ID (gameName + tagLine)
+                // Fetch summoner data by Riot ID
                 const summonerResponse = await axios.get(
                     `${backendUrl}/api/League/${encodeURIComponent(gameName)}/${encodeURIComponent(tagLine)}`
                 );
