@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeagueofLegendsFriends")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81c2df163cf26fbe2c54b525cdc040c7b977b2ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeagueofLegendsFriends")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeagueofLegendsFriends")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

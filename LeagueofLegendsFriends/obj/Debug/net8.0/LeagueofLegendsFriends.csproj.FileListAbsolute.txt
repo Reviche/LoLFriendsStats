@@ -32,3 +32,4 @@ C:\Users\kevin\RiderProjects\LeagueofLegendsFriends\LeagueofLegendsFriends\obj\D
 C:\Users\kevin\RiderProjects\LeagueofLegendsFriends\LeagueofLegendsFriends\obj\Debug\net8.0\LeagueofLegendsFriends.pdb
 C:\Users\kevin\RiderProjects\LeagueofLegendsFriends\LeagueofLegendsFriends\obj\Debug\net8.0\LeagueofLegendsFriends.genruntimeconfig.cache
 C:\Users\kevin\RiderProjects\LeagueofLegendsFriends\LeagueofLegendsFriends\obj\Debug\net8.0\ref\LeagueofLegendsFriends.dll
+C:\Users\kevin\RiderProjects\LeagueofLegendsFriends\LeagueofLegendsFriends\obj\Debug\net8.0\LeagueofLegendsFriends.sourcelink.json
